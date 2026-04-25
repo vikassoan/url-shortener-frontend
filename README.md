@@ -1,5 +1,8 @@
 # Frontend Documentation
 
+## 🚀Live Project
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://admirable-pastelito-a8a424.netlify.app/)
+
 ## Overview
 
 The frontend is a modern React application built with Vite that provides a user interface for shortening URLs, user authentication, and managing shortened links. It uses Redux for state management and Axios for API communication.
